@@ -10,7 +10,7 @@ const int threshold = 1;
 
 // Midi variables
 byte midiChannel = 1;
-byte cc = 22;
+byte cc = 1;
 
 void setup() {
   // MIDI_BAUD_RATE = 31250
